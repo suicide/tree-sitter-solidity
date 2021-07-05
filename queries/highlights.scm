@@ -65,8 +65,8 @@
 
 ; Function parameters
 (event_paramater name: (identifier) @variable.parameter)
-(function_definition
-  name:  (identifier) @variable.parameter)
+; (function_definition
+;   name:  (identifier) @variable.parameter)
 
 ; Yul functions
 (yul_function_call function: (yul_identifier) @function)
